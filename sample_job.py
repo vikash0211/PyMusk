@@ -3,7 +3,7 @@ import os
 import sys
 
 importPath = []
-importPath.append('./pyMusk') # Path to pyMusk Framework Directory
+importPath.append('./lib') # Path to pyMusk Framework Directory
 for path in importPath:
     if path not in sys.path:
         sys.path.append(path)
