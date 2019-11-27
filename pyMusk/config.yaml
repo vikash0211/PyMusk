@@ -1,8 +1,0 @@
-logs_dir: ../sample_logs/
-smtp:
-    domain: '<domain.com>'
-    ip: '<smtp ip>'
-    user: ''
-    password: ''
-localhost:
-    domain: '<localhost domain if any>'
